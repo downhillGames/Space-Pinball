@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1525449520 source:c:\users\tyler\documents\pinball3.0\main.c
+	"Windows.h"
+	<curses.h>
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	"pinballFunctions.h"
+
+1216152806 c:\program files (x86)\codeblocks\pdcurs34\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
+1524369503 c:\users\tyler\documents\pinball3.0\pinballfunctions.h
+	<curses.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<unistd.h>
+
