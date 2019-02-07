@@ -1,7 +1,4 @@
 
-<p align="center">
-  <!--<img src="https://github.com/downhillGames/Space-Pinball/pinballTitlescreen.png">-->
-</p>
 
 
      .d8888b.                                           8888888b.  d8b          888               888 888
@@ -14,6 +11,12 @@
      'Y8888P'   88888P'  'Y888888  'Y8888P 'Y8888       888        888 888  888 88888P'  'Y888888 888 888
                 888
                 888
+
+
+
+<p align="center">
+  <img src="https://github.com/downhillGames/Space-Pinball/pinballTitlescreen.png">
+</p>
 
 
 Our Assignment in CS 2060 was to:
@@ -29,4 +32,3 @@ Written in C and the NCurses 3rd party library, Space Pinball is a console game 
 Contributor:
 
 - [Tyler Schmidt: Software Engineer](https://github.com/downhillGames)
-C:\Users\Tyler\Documents\GitHub\Space-Pinball\pinballTitlescreen.png
