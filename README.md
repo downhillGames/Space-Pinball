@@ -14,10 +14,6 @@
 
 
 
-<p align="center">
-  <img src="https://github.com/downhillGames/Space-Pinball/pinballTitlescreen.png">
-</p>
-
 
 Our Assignment in CS 2060 was to:
 
